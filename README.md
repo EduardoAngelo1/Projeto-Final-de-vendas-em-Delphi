@@ -9,7 +9,7 @@ CREATE DATABASE loja_nexus;
 ### Passo 2: Executar o Script de Criação
 
 1. Conecte-se ao banco `loja_nexus`
-2. Abra o arquivo `database/script_banco.sql` contido na basta atual
+2. Abra o arquivo `database/script_banco.sql` contido na pasta atual
 3. Execute todo o conteúdo do script
 
 O script irá:
